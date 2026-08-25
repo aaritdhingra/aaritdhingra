@@ -128,14 +128,13 @@
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaritdhingra&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=aaritdhingra&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak"/>
+  <img width="85%" src="https://streak-stats.demolab.com/?user=aaritdhingra&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaritdhingra&layout=compact&theme=dark&hide_border=true&title_color=38bdf8" alt="Top Languages"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaritdhingra&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" alt="Activity Graph"/>
 </div>
 
 <br/>
