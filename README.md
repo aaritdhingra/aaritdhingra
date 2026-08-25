@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:071739,100:0d1117&height=200&section=header" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:071739,100:0d1117&height=140&section=header" width="100%" alt="Header"/>
 
 <br/>
 
 <!-- NEON NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=70&lines=AARIT+DHINGRA" alt="AARIT DHINGRA"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=60&lines=AARIT+DHINGRA" alt="AARIT DHINGRA"/>
 
 <br/>
 
@@ -37,13 +37,11 @@
 
 <br/>
 
-<div align="center">
-  <p align="center" style="font-size: 16px; color: #94A3B8;">
-    Computer Science student and builder focused on the intersection of <b>Artificial Intelligence</b> and <b>Software Engineering</b>.<br/>
-    I don't just write code for tutorials; I engineer <b>desktop applications</b>, <b>browser extensions</b>, and <b>automation systems</b> that actually solve problems.<br/><br/>
-    Currently exploring <b>LLMs</b>, <b>AI APIs</b>, and <b>Full-Stack Product Engineering</b>.
-  </p>
-</div>
+<p align="center">
+  Computer Science student and builder focused on the intersection of <b>Artificial Intelligence</b> and <b>Software Engineering</b>.<br/>
+  I don't just write code for tutorials; I engineer <b>desktop applications</b>, <b>browser extensions</b>, and <b>automation systems</b> that actually solve problems.<br/><br/>
+  Currently exploring <b>LLMs</b>, <b>AI APIs</b>, and <b>Full-Stack Product Engineering</b>.
+</p>
 
 <br/>
 
@@ -59,18 +57,18 @@
 
 <br/>
 
-<table align="center" width="100%" style="border-collapse: collapse;">
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <br/>
-      <h2>🌐 WebSpyrX</h2>
+      <h3>🌐 WebSpyrX</h3>
       <p>A developer-focused ecosystem for useful<br/>software, tools and AI-powered products.</p>
       <code>Ecosystem</code> <code>AI Products</code> <code>Dev Tools</code>
       <br/><br/>
     </td>
     <td width="50%" align="center">
       <br/>
-      <h2>🧠 AETHER</h2>
+      <h3>🧠 AETHER</h3>
       <p>Personal AI assistant & desktop<br/>AI application built for efficiency.</p>
       <code>Python</code> <code>PyQt6</code> <code>Ollama</code>
       <br/><br/>
@@ -79,14 +77,14 @@
   <tr>
     <td width="50%" align="center">
       <br/>
-      <h2>💰 Zenny</h2>
+      <h3>💰 Zenny</h3>
       <p>AI mobile spending intelligence app<br/>focused on understanding <i>why</i> you spend.</p>
       <code>Flutter</code> <code>Groq AI</code> <code>Mobile</code>
       <br/><br/>
     </td>
     <td width="50%" align="center">
       <br/>
-      <h2>📊 CodeTracker</h2>
+      <h3>📊 CodeTracker</h3>
       <p>Productivity browser extension tracking<br/>coding goals, streaks, and progress.</p>
       <code>JavaScript</code> <code>Extension</code> <code>Productivity</code>
       <br/><br/>
@@ -134,14 +132,14 @@
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaritdhingra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaritdhingra&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakNum=94A3B8&currStreakLabel=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaritdhingra&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaritdhingra&hide_border=true&theme=dark&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaritdhingra&bg_color=0d1117&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph"/>
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaritdhingra&bg_color=0d1117&color=94a3b8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -158,19 +156,17 @@
 
 <br/>
 
-<div align="center">
-
 ```bash
 aarit@core-system:~$ cat /dev/mindset/philosophy.txt
 
 I don't want to only build tutorial projects. 
 I want to build things I would actually use.
-</div><br/><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/> </div><br/><div align="center">
+<br/><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/> </div><br/><div align="center">
 <code>BUILD → BREAK → LEARN → REBUILD</code>
 
 <br/><br/>
 
-<p align="center" style="color: #94A3B8; font-size: 12px;"> SYSTEM OFFLINE. THANKS FOR VISITING. </p></div> ```
+<p align="center"> <sub>SYSTEM OFFLINE. THANKS FOR VISITING.</sub> </p></div> ```
 
 If I am the first user and the product genuinely solves a problem 
 in my daily life, that is when the idea is worth shipping.
