@@ -1,15 +1,19 @@
 <div align="center">
 
 <!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071739,100:000000&height=180&section=header&text=&fontSize=0" width="100%" alt=""/>
-
-<!-- NEON NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=80&lines=AARIT+DHINGRA" alt="AARIT DHINGRA"/>
-
-<!-- DYNAMIC SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+AI-powered+applications.;Engineering+developer+tools+%26+software.;Turning+ambitious+ideas+into+reality.;Software+%C3%97+Automation+%C3%97+AI" alt="Typing Subtitle"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:071739,100:0d1117&height=200&section=header" width="100%" alt="Header"/>
 
 <br/>
+
+<!-- NEON NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=70&lines=AARIT+DHINGRA" alt="AARIT DHINGRA"/>
+
+<br/>
+
+<!-- DYNAMIC SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+AI-powered+applications.;Engineering+developer+tools+%26+software.;Turning+ambitious+ideas+into+reality.;Software+%C3%97+Automation+%C3%97+AI" alt="Subtitle"/>
+
+<br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/aaritdhingra/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=000000&color=071739" alt="LinkedIn"/></a>
@@ -124,21 +128,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&width=350&lines=>_+SYSTEM+METRICS" alt="GITHUB STATS"/>
-</div>
-
-<br/>
-
-<!-- Using transparent backgrounds (bg_color=00000000) so they blend perfectly into any GitHub dark mode -->
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaritdhingra&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaritdhingra&hide_border=true&background=00000000&stroke=00000000&ring=38BDF8&fire=38BDF8&currStreakNum=94A3B8&currStreakLabel=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&width=350&lines=>_+SYSTEM+METRICS" alt="SYSTEM METRICS"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaritdhingra&bg_color=00000000&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaritdhingra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaritdhingra&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakNum=94A3B8&currStreakLabel=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaritdhingra&bg_color=0d1117&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -153,19 +156,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&width=350&lines=>_+PHILOSOPHY" alt="PHILOSOPHY"/>
 </div>
 
+<br/>
+
 <div align="center">
-  
+
 ```bash
 aarit@core-system:~$ cat /dev/mindset/philosophy.txt
 
 I don't want to only build tutorial projects. 
 I want to build things I would actually use.
-
-If I am the first user and the product genuinely solves a problem 
-in my daily life, that is when the idea is worth shipping.
 </div><br/><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/> </div><br/><div align="center">
 <code>BUILD → BREAK → LEARN → REBUILD</code>
 
 <br/><br/>
 
 <p align="center" style="color: #94A3B8; font-size: 12px;"> SYSTEM OFFLINE. THANKS FOR VISITING. </p></div> ```
+
+If I am the first user and the product genuinely solves a problem 
+in my daily life, that is when the idea is worth shipping.
