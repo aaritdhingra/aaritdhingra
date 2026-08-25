@@ -59,16 +59,14 @@
       <br/>
       <h3>🌐 WebSpyrX</h3>
       <p>A developer-focused ecosystem for useful software, tools and AI-powered products.</p>
-
-<code>Ecosystem</code> <code>AI Products</code> <code>Dev Tools</code>
+      <code>Ecosystem</code> <code>AI Products</code> <code>Dev Tools</code>
       <br/><br/>
     </td>
     <td width="50%" align="center">
       <br/>
       <h3>🧠 AETHER</h3>
       <p>Personal AI assistant & desktop AI application built for efficiency.</p>
-
-<code>Python</code> <code>PyQt6</code> <code>Ollama</code>
+      <code>Python</code> <code>PyQt6</code> <code>Ollama</code>
       <br/><br/>
     </td>
   </tr>
@@ -77,16 +75,14 @@
       <br/>
       <h3>💰 Zenny</h3>
       <p>AI mobile spending intelligence app focused on understanding <i>why</i> users spend.</p>
-
-<code>Flutter</code> <code>Groq AI</code> <code>Mobile</code>
+      <code>Flutter</code> <code>Groq AI</code> <code>Mobile</code>
       <br/><br/>
     </td>
     <td width="50%" align="center">
       <br/>
       <h3>📊 CodeTracker</h3>
       <p>Productivity browser extension tracking coding goals, streaks, and progress.</p>
-
-<code>JavaScript</code> <code>Extension</code> <code>Productivity</code>
+      <code>JavaScript</code> <code>Extension</code> <code>Productivity</code>
       <br/><br/>
     </td>
   </tr>
@@ -133,13 +129,13 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaritdhingra&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaritdhingra&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=aaritdhingra&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaritdhingra&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaritdhingra&layout=compact&theme=dark&hide_border=true&title_color=38bdf8" alt="Top Languages"/>
 </div>
 
 <br/>
