@@ -23,7 +23,8 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<!-- ORANGE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
 
 </div>
 
@@ -42,7 +43,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+  <!-- ORANGE DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -91,7 +93,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+  <!-- ORANGE DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -107,7 +110,7 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino&theme=dark&perline=8" alt="Tools & Systems"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white&color=000000&labelColor=261200" alt="PyQt6"/>
+  <img src="https://img.shields.io/badge/PyQt6-FF6600?style=for-the-badge&logo=qt&logoColor=white&color=000000&labelColor=261200" alt="PyQt6"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&color=000000&labelColor=261200" alt="Ollama"/>
   <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logoColor=white&color=000000&labelColor=261200" alt="Groq"/>
   <img src="https://img.shields.io/badge/LLMs-FF6600?style=for-the-badge&logoColor=white&color=000000&labelColor=261200" alt="LLMs"/>
@@ -116,7 +119,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+  <!-- ORANGE DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -127,14 +131,14 @@
 
 <br/>
 
-<!-- STREAK STATS (ORANGE THEME) -->
+<!-- STREAK STATS (ORANGE) -->
 <div align="center">
   <img width="85%" src="https://streak-stats.demolab.com/?user=aaritdhingra&theme=dark&hide_border=true&ring=FF6600&fire=FF6600&currStreakNum=FF6600&sideNums=FF6600&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<!-- BULLETPROOF ORANGE CONTRIBUTION GRAPH -->
+<!-- ORANGE CONTRIBUTION MATRIX -->
 <div align="center">
   <img width="95%" src="https://ghchart.rshah.org/FF6600/aaritdhingra" alt="Aarit's GitHub Activity Graph"/>
 </div>
@@ -142,7 +146,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+  <!-- ORANGE DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -176,7 +181,8 @@ in my daily workflow, that is when the idea is worth shipping.
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+  <!-- ORANGE DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
