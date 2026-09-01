@@ -23,8 +23,8 @@
 
 <br/><br/>
 
-<!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
+<!-- SLEEK ANIMATED ORANGE GLOW LINE -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6600&height=15&section=header&animation=twinkle" width="100%" alt="divider"/>
 
 </div>
 
@@ -43,8 +43,8 @@
 <br/>
 
 <div align="center">
-  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
+  <!-- SLEEK ANIMATED ORANGE GLOW LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6600&height=15&section=header&animation=twinkle" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -93,8 +93,8 @@
 <br/>
 
 <div align="center">
-  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
+  <!-- SLEEK ANIMATED ORANGE GLOW LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6600&height=15&section=header&animation=twinkle" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -119,8 +119,8 @@
 <br/>
 
 <div align="center">
-  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
+  <!-- SLEEK ANIMATED ORANGE GLOW LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6600&height=15&section=header&animation=twinkle" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -138,7 +138,7 @@
 
 <br/>
 
-<!-- ORANGE CONTRIBUTION MATRIX (NEON GLOW) -->
+<!-- FIXED BULLETPROOF ORANGE ACTIVITY GRAPH -->
 <div align="center">
   <img width="95%" src="https://ghchart.rshah.org/FF6600/aaritdhingra" alt="Aarit's GitHub Activity Graph"/>
 </div>
@@ -146,8 +146,8 @@
 <br/>
 
 <div align="center">
-  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
+  <!-- SLEEK ANIMATED ORANGE GLOW LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6600&height=15&section=header&animation=twinkle" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -181,8 +181,8 @@ in my daily workflow, that is when the idea is worth shipping.
 <br/>
 
 <div align="center">
-  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
+  <!-- SLEEK ANIMATED ORANGE GLOW LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6600&height=15&section=header&animation=twinkle" width="100%" alt="divider"/>
 </div>
 
 <br/>
