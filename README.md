@@ -134,7 +134,8 @@
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaritdhingra&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" alt="Activity Graph"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaritdhingra&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=38bdf8" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaritdhingra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages"/>
 </div>
 
 <br/>
