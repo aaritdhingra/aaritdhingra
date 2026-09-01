@@ -23,8 +23,8 @@
 
 <br/><br/>
 
-<!-- ORANGE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
+<!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
 
 </div>
 
@@ -43,8 +43,8 @@
 <br/>
 
 <div align="center">
-  <!-- ORANGE DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
+  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -93,8 +93,8 @@
 <br/>
 
 <div align="center">
-  <!-- ORANGE DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
+  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -119,8 +119,8 @@
 <br/>
 
 <div align="center">
-  <!-- ORANGE DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
+  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -131,14 +131,14 @@
 
 <br/>
 
-<!-- STREAK STATS (ORANGE) -->
+<!-- STREAK STATS (NEON ORANGE) -->
 <div align="center">
   <img width="85%" src="https://streak-stats.demolab.com/?user=aaritdhingra&theme=dark&hide_border=true&ring=FF6600&fire=FF6600&currStreakNum=FF6600&sideNums=FF6600&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<!-- ORANGE CONTRIBUTION MATRIX -->
+<!-- ORANGE CONTRIBUTION MATRIX (NEON GLOW) -->
 <div align="center">
   <img width="95%" src="https://ghchart.rshah.org/FF6600/aaritdhingra" alt="Aarit's GitHub Activity Graph"/>
 </div>
@@ -146,8 +146,8 @@
 <br/>
 
 <div align="center">
-  <!-- ORANGE DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
+  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -181,8 +181,8 @@ in my daily workflow, that is when the idea is worth shipping.
 <br/>
 
 <div align="center">
-  <!-- ORANGE DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6600&height=2" width="100%" alt="divider"/>
+  <!-- ANIMATED GLOWING ORANGE NEON DIVIDER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF2A00,FF6600,FF9900&height=40&section=footer" width="100%" alt="divider"/>
 </div>
 
 <br/>
