@@ -1,25 +1,25 @@
 <div align="center">
 
 <!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=AARIT%20DHINGRA&fontSize=40&fontColor=38BDF8&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=AARIT%20DHINGRA&fontSize=40&fontColor=FF6600&animation=fadeIn" width="100%" alt="Header"/>
 
 <br/>
 
 <!-- DYNAMIC SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+AI-Powered+Applications;Engineering+Developer+Tools+%26+Software;Turning+Ideas+into+Working+Products;Software+%C3%97+Automation+%C3%97+AI" alt="Subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=FF6600&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+AI-Powered+Applications;Engineering+Developer+Tools+%26+Software;Turning+Ideas+into+Working+Products;Software+%C3%97+Automation+%C3%97+AI" alt="Subtitle"/>
 
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/aaritdhingra/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=000000&color=071739" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6600&labelColor=000000&color=261200" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:aaritdhingra121@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=000000&color=071739" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6600&labelColor=000000&color=261200" alt="Email"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=aaritdhingra&style=for-the-badge&color=071739&labelColor=000000&label=PROFILE+VIEWS" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=aaritdhingra&style=for-the-badge&color=261200&labelColor=000000&label=PROFILE+VIEWS" alt="Views"/>
 
 <br/><br/>
 
@@ -107,10 +107,10 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino&theme=dark&perline=8" alt="Tools & Systems"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white&color=000000&labelColor=071739" alt="PyQt6"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&color=000000&labelColor=071739" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logoColor=white&color=000000&labelColor=071739" alt="Groq"/>
-  <img src="https://img.shields.io/badge/LLMs-38BDF8?style=for-the-badge&logoColor=white&color=000000&labelColor=071739" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white&color=000000&labelColor=261200" alt="PyQt6"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&color=000000&labelColor=261200" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logoColor=white&color=000000&labelColor=261200" alt="Groq"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6600?style=for-the-badge&logoColor=white&color=000000&labelColor=261200" alt="LLMs"/>
 </div>
 
 <br/>
@@ -127,15 +127,16 @@
 
 <br/>
 
+<!-- STREAK STATS (ORANGE THEME) -->
 <div align="center">
-  <img width="85%" src="https://streak-stats.demolab.com/?user=aaritdhingra&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak"/>
+  <img width="85%" src="https://streak-stats.demolab.com/?user=aaritdhingra&theme=dark&hide_border=true&ring=FF6600&fire=FF6600&currStreakNum=FF6600&sideNums=FF6600&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
+<!-- BULLETPROOF ORANGE CONTRIBUTION GRAPH -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaritdhingra&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=38bdf8" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaritdhingra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages"/>
+  <img width="95%" src="https://ghchart.rshah.org/FF6600/aaritdhingra" alt="Aarit's GitHub Activity Graph"/>
 </div>
 
 <br/>
